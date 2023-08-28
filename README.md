@@ -44,4 +44,4 @@
   - Email: lugo.kse23@gmail.com
   
   ## Screenshot
-  ![app-screenshot](assets/ecommerce-backend-screenshot.png)
+  ![app-screenshot](assets/sql-screenshot.png)
