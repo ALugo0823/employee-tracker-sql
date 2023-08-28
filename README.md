@@ -15,7 +15,7 @@
   -[Tech used](#tech-used)
 
   ## Installation and Usage
-  You may download the starter code at https://github.com/ALugo0823/e-commerce-backend 
+  You may download the starter code at https://github.com/ALugo0823/employee-tracker-sql
   The following steps will help you run the app:
   1. In the integrated terminal, enter 'npm i' to install the dependencies from our package.json file
   2. Login to your MySQL by entering 'mysql -u root -p' in the terminal. You will be prompted to enter your password.
